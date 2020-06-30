@@ -19,7 +19,7 @@ class PointerLayer extends PIXI.Container {
             // Pointer options
             pointer: {       
                 scale: 1,               // Scale relative to the grid_dim
-                svg_name: "pointer.svg"     // The svg name
+                svg_name: "pointer.png"     // The svg name
             },
             // Ping options
             ping: {     
