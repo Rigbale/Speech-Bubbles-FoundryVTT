@@ -8,6 +8,6 @@
 	"minimumCoreVersion": "0.5.5",
 	"socket": true,
 	"manifest": "https://raw.githubusercontent.com/Rigbale/Speech-Bubbles-FoundryVTT/master/module.json",
-	"download": "https://gitlab.com/moerills-fvtt-modules/pointer/raw/v1.4.7/pointer.",
+	"download": "https://github.com/Rigbale/Speech-Bubbles-FoundryVTT/blob/master/pointer.zip",
 	"url": "https://raw.githubusercontent.com/Rigbale/Speech-Bubbles-FoundryVTT/master/module.json"
 }
